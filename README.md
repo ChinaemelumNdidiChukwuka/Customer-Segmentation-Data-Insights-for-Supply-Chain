@@ -1,5 +1,7 @@
 # Optimizing Production & Supply Chain with Customer Segmentation (Case Study: SmartHome Solutions)
 
+![](cover.png)
+
 This project empowers SmartHome Solutions Inc. to optimize production planning and supply chain efficiency by leveraging customer data for segmentation and profiling. Utilizing Microsoft Excel, it drives data-driven decisions to reduce inefficiencies, align production with demand, and minimize excess inventory.
 
 # Business Context
@@ -34,8 +36,16 @@ Microsoft Excel for:
 - Pivot tables, charts, and dashboards for insights and reporting
 
   # Data Cleaning & Pre-processing
-- Missing values: No missing values were present in the dataset
-- Duplicates: No duplicates were found in the dataset
+- **Missing values:** No missing values were present in the dataset
+
+  ![](missing.png)
+
+  
+- **Duplicates:** No duplicates were found in the dataset
+
+  ![](dupilcate.png)
+
+  
 - The date and the time were extracted into different columns from the timestamp and placed in the right format.
 
 # Exploratory Data Analysis
